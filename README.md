@@ -9,6 +9,8 @@
 * Modify the input variables in the script.
 * Run with `python search_equilibrium.py`
 
+![Picture1](https://github.com/yvrob/search_equilibrium/assets/56325916/c0ea5133-983e-4409-ab4f-c507bb6d56f5)
+
 ## Script Explanation
 
 (The following description was temporarily made by ChatGPT, using the main script in the prompt)
@@ -17,6 +19,8 @@ This repository contains a Python script specifically designed for simulating a 
 
 ### Import Modules and Constants Definition
 The script begins by importing necessary Python libraries such as `pandas`, `numpy`, `matplotlib`, and specific modules from the Cerberus solver framework. It then defines a set of constants that are crucial for the simulation, including parameters like transport, activation, and step sizes.
+
+
 
 ### Classes Definition
 Two main classes, `Simulation` and `Pebble_bed`, form the core of the script:
